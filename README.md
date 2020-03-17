@@ -23,13 +23,13 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
 - [We Work Remotely](https://weworkremotely.com)
 - [AngelList](https://angel.co/jobs)
-- [OndeTrabalhar](http://www.ondetrabalhar.com/em/home-office-remoto)
 - [JOBBOX](https://www.jobbox.io/offers?t=&s=featured&r=on)
 - [Toptal](http://www.toptal.com/)
 - [Remote OK](http://remoteok.io/)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
+- [Workana](https://www.workana.com/)
 
 ## Ferramentas
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) - Bloqueie sites durante um período do dia para evitar a perda de produtividade
